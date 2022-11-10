@@ -1,0 +1,13 @@
+body{
+
+    background-color: whitesmoke;
+}
+
+p,
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input {
+    margin: .4rem;
+}
